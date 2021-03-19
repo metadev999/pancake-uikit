@@ -2074,10 +2074,10 @@ var Logo$1 = function (_a) {
     return (React.createElement(Flex, null,
         React.createElement(MenuButton, { "aria-label": "Toggle menu", onClick: togglePush, mr: "24px" }, isPushed ? (React.createElement(Icon$N, { width: "24px", color: "textSubtle" })) : (React.createElement(Icon$M, { width: "24px", color: "textSubtle" }))),
         isAbsoluteUrl ? (React.createElement(StyledLink$1, { as: "a", href: href, "aria-label": "MilkSwap home page" },
-            React.createElement("img", { src: "https://github.com/MilkSwap/pancake-uikit/blob/master/src/widgets/Menu/logo.svg?raw=true", alt: "Milkswap Logo", className: "mobile-icon" }),
-            React.createElement("img", { src: "https://github.com/MilkSwap/pancake-uikit/blob/master/src/widgets/Menu/milkswap_logo.svg?raw=true", alt: "Milkswap Logo", className: "desktop-icon" }))) : (React.createElement(StyledLink$1, { to: href, "aria-label": "MilkSwap home page" },
-            React.createElement("img", { src: "https://github.com/MilkSwap/pancake-uikit/blob/master/src/widgets/Menu/logo.svg?raw=true", alt: "Milkswap Logo", className: "mobile-icon" }),
-            React.createElement("img", { src: "https://github.com/MilkSwap/pancake-uikit/blob/master/src/widgets/Menu/milkswap_logo.svg?raw=true", alt: "Milkswap Logo", className: "desktop-icon" })))));
+            React.createElement("img", { src: "https://github.com/yielddeer/pancake-uikit/blob/master/src/widgets/Menu/logo.svg?raw=true", alt: "Milkswap Logo", className: "mobile-icon" }),
+            React.createElement("img", { src: "https://github.com/yielddeer/pancake-uikit/blob/master/src/widgets/Menu/milkswap_logo.svg?raw=true", alt: "Milkswap Logo", className: "desktop-icon" }))) : (React.createElement(StyledLink$1, { to: href, "aria-label": "MilkSwap home page" },
+            React.createElement("img", { src: "https://github.com/yielddeer/pancake-uikit/blob/master/src/widgets/Menu/logo.svg?raw=true", alt: "Milkswap Logo", className: "mobile-icon" }),
+            React.createElement("img", { src: "https://github.com/yielddeer/pancake-uikit/blob/master/src/widgets/Menu/milkswap_logo.svg?raw=true", alt: "Milkswap Logo", className: "desktop-icon" })))));
 };
 var templateObject_1$y;
 
@@ -2093,11 +2093,11 @@ var links = [
         items: [
             {
                 label: "Exchange",
-                href: "https://exchange.milkswap.app",
+                href: "https://yielddeer.farm",
             },
             {
                 label: "Liquidity",
-                href: "https://exchange.milkswap.app/#/pool",
+                href: "https://exchange.pancakeswap.finance/#/pool",
             },
         ],
     },
@@ -2178,11 +2178,11 @@ var links = [
         items: [
             {
                 label: "Github",
-                href: "https://github.com/milkswap",
+                href: "https://github.com/yielddeer",
             },
             {
                 label: "Blog",
-                href: "https://milk-swap.medium.com/",
+                href: "https://yielddeer.medium.com/",
             },
         ],
     },
@@ -2194,14 +2194,14 @@ var socials = [
         items: [
             {
                 label: "English",
-                href: "https://t.me/milkswap_bsc",
+                href: "https://t.me/yielddeerc",
             },
         ],
     },
     {
         label: "Twitter",
         icon: "TwitterIcon",
-        href: "https://twitter.com/milkswap_bsc",
+        href: "https://twitter.com/yielddeer",
     },
 ];
 var MENU_HEIGHT = 64;
