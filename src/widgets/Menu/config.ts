@@ -10,11 +10,11 @@ export const links = [
     items: [
       {
         label: "Exchange",
-        href: "https://exchange.milkswap.app",
+        href: "https://exchange.yielddeer.farm",
       },
       {
         label: "Liquidity",
-        href: "https://exchange.milkswap.app/#/pool",
+        href: "https://exchange.yielddeer.farm/#/pool",
       },
     ],
   },
@@ -95,11 +95,11 @@ export const links = [
     items: [
       {
         label: "Github",
-        href: "https://github.com/milkswap",
+        href: "https://github.com/yielddeer",
       },
       {
         label: "Blog",
-        href: "https://milk-swap.medium.com/",
+        href: "https://yielddeer.medium.com/",
       },
     ],
   },
@@ -112,14 +112,14 @@ export const socials = [
     items: [
       {
         label: "English",
-        href: "https://t.me/milkswap_bsc",
+        href: "https://t.me/yielddeer",
       },
     ],
   },
   {
     label: "Twitter",
     icon: "TwitterIcon",
-    href: "https://twitter.com/milkswap_bsc",
+    href: "https://twitter.com/yielddeer",
   },
 ];
 
